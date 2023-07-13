@@ -1,0 +1,6 @@
+projectKey=GMS_SERV_refactoring-java-master
+serverUrl=http://localhost:9000
+serverVersion=9.9.1.69595
+dashboardUrl=http://localhost:9000/dashboard?id=GMS_SERV_refactoring-java-master
+ceTaskId=AYlN2mZj0IUuNnedFEF9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYlN2mZj0IUuNnedFEF9
